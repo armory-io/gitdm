@@ -1,4 +1,6 @@
 # CNCF gitdm
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Farmory-io%2Fgitdm.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Farmory-io%2Fgitdm?ref=badge_shield)
+
 
 This is the Cloud Native Computing Foundation's fork of Jon Corbet and Greg KH's [gitdm](https://lwn.net/Articles/290957/) tool for calculating contributions based on developers and their companies. Companies and developers can check if they are correctly attributed at the following links:
 
@@ -359,3 +361,7 @@ Please follow the instructions from [ADD_PROJECT.md](https://github.com/cncf/git
 # Authors
 - Łukasz Gryglicki <lgryglicki@cncf.io> - developement.
 - Justyna Gryglicka <lgryglicka@cncf.io> - researching affiliations data.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Farmory-io%2Fgitdm.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Farmory-io%2Fgitdm?ref=badge_large)
